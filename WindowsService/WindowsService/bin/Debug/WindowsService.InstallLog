@@ -1,0 +1,13 @@
+﻿Installing assembly 'Z:\Dev meeting\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = Z:\Dev meeting\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = Z:\Dev meeting\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the Z:\Dev meeting\WindowsService\WindowsService\bin\Debug\WindowsService.exe assembly.
+Committing assembly 'Z:\Dev meeting\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = Z:\Dev meeting\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = Z:\Dev meeting\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the Z:\Dev meeting\WindowsService\WindowsService\bin\Debug\WindowsService.exe assembly.
+Remove InstallState file because there are no installers.

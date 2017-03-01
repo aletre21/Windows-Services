@@ -1,0 +1,102 @@
+﻿Uninstalling assembly 'Z:\Dev meeting\StandardWindowsService\StandardWindowsService\bin\Debug\StandardWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = Z:\Dev meeting\StandardWindowsService\StandardWindowsService\bin\Debug\StandardWindowsService.InstallLog
+   assemblypath = Z:\Dev meeting\StandardWindowsService\StandardWindowsService\bin\Debug\StandardWindowsService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the Z:\Dev meeting\StandardWindowsService\StandardWindowsService\bin\Debug\StandardWindowsService.exe assembly.
+Installing assembly 'Z:\Dev meeting\StandardWindowsService\StandardWindowsService\bin\Debug\StandardWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = Z:\Dev meeting\StandardWindowsService\StandardWindowsService\bin\Debug\StandardWindowsService.InstallLog
+   assemblypath = Z:\Dev meeting\StandardWindowsService\StandardWindowsService\bin\Debug\StandardWindowsService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the Z:\Dev meeting\StandardWindowsService\StandardWindowsService\bin\Debug\StandardWindowsService.exe assembly.
+Committing assembly 'Z:\Dev meeting\StandardWindowsService\StandardWindowsService\bin\Debug\StandardWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = Z:\Dev meeting\StandardWindowsService\StandardWindowsService\bin\Debug\StandardWindowsService.InstallLog
+   assemblypath = Z:\Dev meeting\StandardWindowsService\StandardWindowsService\bin\Debug\StandardWindowsService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the Z:\Dev meeting\StandardWindowsService\StandardWindowsService\bin\Debug\StandardWindowsService.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'Z:\Dev meeting\StandardWindowsService\StandardWindowsService\bin\Debug\StandardWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = Z:\Dev meeting\StandardWindowsService\StandardWindowsService\bin\Debug\StandardWindowsService.InstallLog
+   assemblypath = Z:\Dev meeting\StandardWindowsService\StandardWindowsService\bin\Debug\StandardWindowsService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the Z:\Dev meeting\StandardWindowsService\StandardWindowsService\bin\Debug\StandardWindowsService.exe assembly.
+Committing assembly 'Z:\Dev meeting\StandardWindowsService\StandardWindowsService\bin\Debug\StandardWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = Z:\Dev meeting\StandardWindowsService\StandardWindowsService\bin\Debug\StandardWindowsService.InstallLog
+   assemblypath = Z:\Dev meeting\StandardWindowsService\StandardWindowsService\bin\Debug\StandardWindowsService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the Z:\Dev meeting\StandardWindowsService\StandardWindowsService\bin\Debug\StandardWindowsService.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'Z:\Dev meeting\StandardWindowsService\StandardWindowsService\bin\Debug\StandardWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = Z:\Dev meeting\StandardWindowsService\StandardWindowsService\bin\Debug\StandardWindowsService.InstallLog
+   assemblypath = Z:\Dev meeting\StandardWindowsService\StandardWindowsService\bin\Debug\StandardWindowsService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the Z:\Dev meeting\StandardWindowsService\StandardWindowsService\bin\Debug\StandardWindowsService.exe assembly.
+Committing assembly 'Z:\Dev meeting\StandardWindowsService\StandardWindowsService\bin\Debug\StandardWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = Z:\Dev meeting\StandardWindowsService\StandardWindowsService\bin\Debug\StandardWindowsService.InstallLog
+   assemblypath = Z:\Dev meeting\StandardWindowsService\StandardWindowsService\bin\Debug\StandardWindowsService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the Z:\Dev meeting\StandardWindowsService\StandardWindowsService\bin\Debug\StandardWindowsService.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'Z:\Dev meeting\StandardWindowsService\StandardWindowsService\bin\Debug\StandardWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = Z:\Dev meeting\StandardWindowsService\StandardWindowsService\bin\Debug\StandardWindowsService.InstallLog
+   assemblypath = Z:\Dev meeting\StandardWindowsService\StandardWindowsService\bin\Debug\StandardWindowsService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the Z:\Dev meeting\StandardWindowsService\StandardWindowsService\bin\Debug\StandardWindowsService.exe assembly.
+Committing assembly 'Z:\Dev meeting\StandardWindowsService\StandardWindowsService\bin\Debug\StandardWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = Z:\Dev meeting\StandardWindowsService\StandardWindowsService\bin\Debug\StandardWindowsService.InstallLog
+   assemblypath = Z:\Dev meeting\StandardWindowsService\StandardWindowsService\bin\Debug\StandardWindowsService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the Z:\Dev meeting\StandardWindowsService\StandardWindowsService\bin\Debug\StandardWindowsService.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'Z:\Dev meeting\StandardWindowsService\StandardWindowsService\bin\Debug\StandardWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = Z:\Dev meeting\StandardWindowsService\StandardWindowsService\bin\Debug\StandardWindowsService.InstallLog
+   assemblypath = Z:\Dev meeting\StandardWindowsService\StandardWindowsService\bin\Debug\StandardWindowsService.exe
+Rolling back assembly 'Z:\Dev meeting\StandardWindowsService\StandardWindowsService\bin\Debug\StandardWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = Z:\Dev meeting\StandardWindowsService\StandardWindowsService\bin\Debug\StandardWindowsService.InstallLog
+   assemblypath = Z:\Dev meeting\StandardWindowsService\StandardWindowsService\bin\Debug\StandardWindowsService.exe
+Installing assembly 'Z:\Dev meeting\StandardWindowsService\StandardWindowsService\bin\Debug\StandardWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = Z:\Dev meeting\StandardWindowsService\StandardWindowsService\bin\Debug\StandardWindowsService.InstallLog
+   assemblypath = Z:\Dev meeting\StandardWindowsService\StandardWindowsService\bin\Debug\StandardWindowsService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'Z:\Dev meeting\StandardWindowsService\StandardWindowsService\bin\Debug\StandardWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = Z:\Dev meeting\StandardWindowsService\StandardWindowsService\bin\Debug\StandardWindowsService.InstallLog
+   assemblypath = Z:\Dev meeting\StandardWindowsService\StandardWindowsService\bin\Debug\StandardWindowsService.exe
+Uninstalling assembly 'Z:\Dev meeting\StandardWindowsService\StandardWindowsService\bin\Debug\StandardWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = Z:\Dev meeting\StandardWindowsService\StandardWindowsService\bin\Debug\StandardWindowsService.InstallLog
+   assemblypath = Z:\Dev meeting\StandardWindowsService\StandardWindowsService\bin\Debug\StandardWindowsService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'Z:\Dev meeting\StandardWindowsService\StandardWindowsService\bin\Debug\StandardWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = Z:\Dev meeting\StandardWindowsService\StandardWindowsService\bin\Debug\StandardWindowsService.InstallLog
+   assemblypath = Z:\Dev meeting\StandardWindowsService\StandardWindowsService\bin\Debug\StandardWindowsService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'Z:\Dev meeting\StandardWindowsService\StandardWindowsService\bin\Debug\StandardWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = Z:\Dev meeting\StandardWindowsService\StandardWindowsService\bin\Debug\StandardWindowsService.InstallLog
+   assemblypath = Z:\Dev meeting\StandardWindowsService\StandardWindowsService\bin\Debug\StandardWindowsService.exe

@@ -1,0 +1,15 @@
+c:\users\aleksandra trela\documents\visual studio 2015\Projects\StandardWindowsService\StandardWindowsService\bin\Debug\StandardWindowsService.exe.config
+c:\users\aleksandra trela\documents\visual studio 2015\Projects\StandardWindowsService\StandardWindowsService\bin\Debug\StandardWindowsService.exe
+c:\users\aleksandra trela\documents\visual studio 2015\Projects\StandardWindowsService\StandardWindowsService\bin\Debug\StandardWindowsService.pdb
+c:\users\aleksandra trela\documents\visual studio 2015\Projects\StandardWindowsService\StandardWindowsService\obj\Debug\StandardWindowsService.ProjectInstaller.resources
+c:\users\aleksandra trela\documents\visual studio 2015\Projects\StandardWindowsService\StandardWindowsService\obj\Debug\StandardWindowsService.csproj.GenerateResource.Cache
+c:\users\aleksandra trela\documents\visual studio 2015\Projects\StandardWindowsService\StandardWindowsService\obj\Debug\StandardWindowsService.exe
+c:\users\aleksandra trela\documents\visual studio 2015\Projects\StandardWindowsService\StandardWindowsService\obj\Debug\StandardWindowsService.pdb
+Z:\Dev meeting\StandardWindowsService\StandardWindowsService\bin\Debug\StandardWindowsService.exe.config
+Z:\Dev meeting\StandardWindowsService\StandardWindowsService\obj\Debug\StandardWindowsService.exe
+Z:\Dev meeting\StandardWindowsService\StandardWindowsService\obj\Debug\StandardWindowsService.pdb
+Z:\Dev meeting\StandardWindowsService\StandardWindowsService\bin\Debug\StandardWindowsService.exe
+Z:\Dev meeting\StandardWindowsService\StandardWindowsService\obj\Debug\StandardWindowsService.csprojResolveAssemblyReference.cache
+Z:\Dev meeting\StandardWindowsService\StandardWindowsService\obj\Debug\StandardWindowsService.ProjectInstaller.resources
+Z:\Dev meeting\StandardWindowsService\StandardWindowsService\obj\Debug\StandardWindowsService.csproj.GenerateResource.Cache
+Z:\Dev meeting\StandardWindowsService\StandardWindowsService\bin\Debug\StandardWindowsService.pdb
